@@ -192,7 +192,7 @@ def main():
                     sys.exit()
 
         # Control the game's speed
-        clock.tick(10).
+        clock.tick(10)
 
 if __name__ == "__main__":
     main()
